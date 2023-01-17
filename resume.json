@@ -5,18 +5,22 @@
     "label": "Software Engineer",
     "image": "",
     "email": "zelenin.andrew@gmail.com",
-    "phone": "",
-    "url": "",
+    "url": "???",
     "summary": "As a software engineer with over 7 years of experience, I have a strong background in building scalable and intuitive user interfaces for web and mobile applications. I am proficient in technologies such as React, React Native, and Flutter, which allows me to create cross-platform applications for both mobile and desktop. I am a big advocate of functional programming and strive to write clean, maintainable code that follows best practices. In addition to my technical skills, I have a broad range of interests in computer science fields such as machine learning, computer graphics, hardware architecture, and blockchain technology. I am always eager to learn new technologies and stay up-to-date with the latest industry trends.",
     "location": {
-      "countryCode": "US",
-      "address": "Israel"
+      "countryCode": "IL",
+      "address": "Tel Aviv, Israel"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "andrew-zelenin-883196177",
+        "username": "andrew-zelenin",
         "url": "https://www.linkedin.com/in/andrew-zelenin-883196177/"
+      },
+      { 
+        "network": "GitHub",
+        "username": "andgreen",
+        "url": "https://github.com/AndGreen"   
       }
     ]
   },
